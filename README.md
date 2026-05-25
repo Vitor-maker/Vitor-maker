@@ -17,7 +17,7 @@
   Victor
  Desenvolvedor front end
   Desenvolvendo e aprendendo
-  Transformar ideias em realidade
+  Transformando ideias em realidade
   Nunca parar de aprender;
 ```
 
