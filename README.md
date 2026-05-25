@@ -1,15 +1,97 @@
-## Olá
-<!--
-**Vitor-maker/Vitor-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Victor&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20in%20progress%20🚀&descAlignY=58&descSize=18&animation=fadeIn" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+### 👋 Olá! Eu sou o Victor
+
+</div>
+
+```js
+const victor = {
+  nome:       "Victor",
+  foco:       "Desenvolvimento Web Frontend",
+  status:     "Em constante evolução 📈",
+  paixão:     "Transformar ideias em interfaces reais",
+  mentalidade: "Never stop learning 🔥"
+};
+```
+
+---
+
+<div align="center">
+
+## 🛠️ Tecnologias que uso
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+<br/><br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Sobre mim
+
+</div>
+
+Sou um desenvolvedor frontend em crescimento, apaixonado por criar experiências web com **HTML**, **CSS** e **JavaScript**. Cada projeto é uma oportunidade de aprender algo novo e evoluir como dev.
+
+- 🎯 Foco atual: aprimorar minhas habilidades em **JS** e boas práticas de desenvolvimento
+- 🧠 Sempre aprendendo: conceitos de UI/UX, responsividade e performance
+- 💡 Mentalidade: *"Code, break, fix, repeat"*
+- 🌱 Crescendo um commit de cada vez
+
+---
+
+<div align="center">
+
+## 📊 Estatísticas do GitHub
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Me encontra por aí
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU@EMAIL.COM)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+*"A cada linha de código, um passo a mais na jornada."* ✨
+
+</div>
