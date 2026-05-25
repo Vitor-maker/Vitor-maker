@@ -48,12 +48,12 @@ const victor = {
 
 </div>
 
-Sou um desenvolvedor frontend em crescimento, apaixonado por criar experiências web com **HTML**, **CSS** e **JavaScript**. Cada projeto é uma oportunidade de aprender algo novo e evoluir como dev.
+Sou um desenvolvedor frontend em crescimento, apaixonado por criar experiências web com **HTML**, **CSS** e **JavaScript**. Cada projeto é uma nova forma de se desenvolver a aprender
 
-- 🎯 Foco atual: aprimorar minhas habilidades em **JS** e boas práticas de desenvolvimento
-- 🧠 Sempre aprendendo: conceitos de UI/UX, responsividade e performance
-- 💡 Mentalidade: *"Code, break, fix, repeat"*
-- 🌱 Crescendo um commit de cada vez
+Atualmente procuro aprimorar minhas habilidades com o java
+Sempre reavendo o código
+Se o código quebrar é só refazer
+De pouco em pouco se faz uma árvore
 
 ---
 
