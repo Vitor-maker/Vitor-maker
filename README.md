@@ -11,9 +11,8 @@
 ### 👋 Olá! Eu sou o Victor
 
 </div>
-
-```js
 const victor = {
+```js
   Victor
  Desenvolvedor front end
   Desenvolvendo e aprendendo
