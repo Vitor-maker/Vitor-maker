@@ -14,11 +14,11 @@
 
 ```js
 const victor = {
-  nome:       "Victor",
-  foco:       "Desenvolvimento Web Frontend",
-  status:     "Em constante evolução 📈",
-  paixão:     "Transformar ideias em interfaces reais",
-  mentalidade: "Never stop learning 🔥"
+  Victor
+ Desenvolvedor front end
+  Desenvolvendo e aprendendo
+  Transformar ideias em realidade
+  Nunca parar de aprender
 };
 ```
 
