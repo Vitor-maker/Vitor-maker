@@ -11,14 +11,14 @@
 ### 👋 Olá! Eu sou o Victor
 
 </div>
-const victor = {
+
 ```js
+
   Victor
  Desenvolvedor front end
   Desenvolvendo e aprendendo
   Transformar ideias em realidade
-  Nunca parar de aprender
-};
+  Nunca parar de aprender;
 ```
 
 ---
